@@ -1,0 +1,21 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary files
+~$*
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# Large/Unnecessary files (optional, but good practice)
+*.log
